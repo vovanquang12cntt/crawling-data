@@ -20,7 +20,7 @@ GEM
     method_source (0.9.2)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2020.0425)
+    mime-types-data (3.2020.0512)
     mini_portile2 (2.4.0)
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.0)
@@ -37,7 +37,7 @@ GEM
       rspec-mocks (~> 3.9.0)
     rspec-core (3.9.2)
       rspec-support (~> 3.9.3)
-    rspec-expectations (3.9.1)
+    rspec-expectations (3.9.2)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-mocks (3.9.1)
@@ -58,4 +58,4 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
-   1.17.1
+   2.1.4
